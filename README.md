@@ -1,7 +1,7 @@
-## Refit: The automatic type-safe REST library for .NET Core, Xamarin and .NET
+## Refit: The automatic type-safe HTTP library for .NET Core, Xamarin and .NET
 
 Refit is a library heavily inspired by Square's
-[Retrofit](http://square.github.io/retrofit) library, and it turns your REST
+[Retrofit](http://square.github.io/retrofit) library, and it turns your HTTP
 API into a live interface:
 
 ```csharp
